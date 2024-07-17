@@ -1,8 +1,9 @@
 package bst_test
 
 import (
-	"ilikeblue/ds/bst"
 	"testing"
+
+	"github.com/dungtl2003/data-structure/bst"
 )
 
 // https://www.google.com/url?sa=i&url=https%3A%2F%2Fbyjus.com%2Fgate%2Fbinary-search-trees-notes%2F&psig=AOvVaw0yA-ujUk0itrm-NiHiupUM&ust=1721216558895000&source=images&opi=89978449

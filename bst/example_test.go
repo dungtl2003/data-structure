@@ -2,7 +2,8 @@ package bst_test
 
 import (
 	"fmt"
-	"ilikeblue/data-structure/bst"
+
+	"github.com/dungtl2003/data-structure/bst"
 )
 
 func Example() {

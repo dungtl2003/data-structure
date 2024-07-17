@@ -8,7 +8,7 @@
 package linkedlist
 
 import (
-	ex "ilikeblue/ds/exception"
+	ex "github.com/dungtl2003/data-structure/exception"
 )
 
 type Node[T comparable] struct {
